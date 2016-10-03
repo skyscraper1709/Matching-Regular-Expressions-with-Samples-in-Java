@@ -1,0 +1,15 @@
+5
+ab*c*d
+a*b+e?f
+a*[acd]{3}cab+f
+db*a[^def]{2}gh
+def*p+
+8
+acccd
+abbbbbcccc
+bcdcdef
+defkmnpmpp
+acbcabbf
+pqrstdd
+dbaabggh
+dbbbbamkgh
